@@ -2,6 +2,6 @@
     opacity: 0;
 }
 
-td:hover .answer {
+td:hover .answer, td:active .answer {
     opacity: 1;
 }
