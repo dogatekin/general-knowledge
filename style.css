@@ -2,6 +2,7 @@
     opacity: 0;
 }
 
+td:active,
 td:hover .answer {
     opacity: 1;
 }
