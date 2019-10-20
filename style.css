@@ -1,0 +1,7 @@
+.answer {
+    opacity: 0;
+}
+
+td:hover .answer {
+    opacity: 1;
+}
